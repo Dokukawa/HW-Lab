@@ -1,2 +1,0 @@
-# HW-Lab
-Hello World!
