@@ -1,0 +1,7 @@
+nickname = 'Dokukawa'
+age = 24
+goal = 'professional programmer'
+goal_short_term = 'learn how to use python3.6.1 and take some exercise to lose weight'
+print("Hello world!My nickname is",nickname,"and I'm",age,"year old.")
+print("I wanna to be a",goal,"so I come GitHub to learn more about that.")
+print("For short-term goal I would to",goal_short_term,".")
